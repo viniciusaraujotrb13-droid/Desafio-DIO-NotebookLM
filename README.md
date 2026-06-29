@@ -5,6 +5,9 @@ Projeto DIO
 
 Contexto e objetivos: Meu assunto de interesse foi sobre investimentos, foquei somente em fundos imobiliários para não ficar algo muito grande e conseguir me aprofundar nesse nicho que tenho bastante interesse de aprendizado. É um assunto em que todos os brasileiros deveriam ter um pouco de conhecimento e espero que a minha IA Generativa possa ensinar para as pessoas sobre fundos imobiliários e a como investir neles da forma correta.
 
+Link do NotebookLM
+https://notebooklm.google.com/notebook/ad3b3de5-2126-400a-8b93-931c098b0cc4
+
 Fontes:
 https://www.youtube.com/watch?v=z3fTzc0q10M
 https://www.youtube.com/watch?v=qFDwa74ergw
